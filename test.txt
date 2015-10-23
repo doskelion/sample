@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 this is just a test
-
-second line to be reverted
-=======
-
->>>>>>> parent of 255501a... Test only
